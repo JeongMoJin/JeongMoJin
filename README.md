@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Premiere Pro-0078C0?style=flat&logo=adobepremierepro&logoColor=white"/>
@@ -28,6 +29,18 @@
   <img src="https://img.shields.io/badge/IntelliJ IDEA-161A36?style=flat&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android Studio-4FC08D?style=flat&logo=androidstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/DataGrip-9BF0E1?style=flat&logo=datagrip&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-004B8D?style=flat&logo=pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/substance painter-E62431?style=flat&logo=substance painter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autocad&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GAEA-F2BB13?style=flat&logo=GAEA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lumion-007CE2?style=flat&logo=Lumion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat&logo=arcgis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=arcgis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+
 
   
 
