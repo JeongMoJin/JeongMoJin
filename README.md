@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-161A36?style=flat&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android Studio-4FC08D?style=flat&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white"/>
 
   
 
