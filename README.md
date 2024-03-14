@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat&logo=arcgis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=arcgis&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebStorm-#8DD6F9?style=flat&logo=webstorm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebStorm-8DD6F9?style=flat&logo=webstorm&logoColor=white"/>
 
 
   
