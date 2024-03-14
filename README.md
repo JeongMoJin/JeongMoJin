@@ -6,7 +6,7 @@
   <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongMoJin&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
-
+<--
   <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=unrealengine&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=white"/>
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=arcgis&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebStorm-8DD6F9?style=flat&logo=webstorm&logoColor=white"/>
-
+-->
 
   
 
